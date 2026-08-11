@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-- **Frontend:** `Add your Vercel URL here`
+- **Frontend:** yt-eddytiyaa.vercel.app
 - **Backend API:** `Add your Render URL here`
 - **API documentation:** `Add your Render URL here/docs`
 
