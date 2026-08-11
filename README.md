@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-- **Frontend:** yt-eddytiyaa.vercel.app
+- **Frontend:** https://yt-eddytiyaa.vercel.app/app
 - **Backend API:** https://yt-io7s.onrender.com
 - **API documentation:** https://yt-io7s.onrender.com/docs
 
