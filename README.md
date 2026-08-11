@@ -21,39 +21,54 @@
 
 ### Landing Page
 
-**[Add image here — Reel Oracle landing page]**
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/a6fb5735-a127-40fb-bb62-4d46d8645582" />
+
 
 ### Platform Overview
 
-**[Add image here — Overview dashboard showing the feature directory and watchlist digest]**
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/0b8e7a67-5183-4fc9-8193-edf3b05c6c74" />
+
+
 
 ### Discover
 
-**[Add image here — Discover page showing Trend Radar, Content Gaps, and Competitor Comparison]**
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/fb0504de-d87a-4c44-8eed-8225087c0104" />
+
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/48c4b7f3-bddc-47b8-ad4d-549236d1603c" />
+
+<img width="1920" height="1036" alt="image" src="https://github.com/user-attachments/assets/daeda849-ca8c-4f4c-974a-bcfb0a39e92d" />
+
 
 ### Analyse
 
-**[Add image here — Analyse page showing Video Intelligence, sentiment, thumbnail score, and channel audit]**
+<img width="1782" height="1032" alt="image" src="https://github.com/user-attachments/assets/2d754a4e-01a1-47de-93fa-fb63fe0bfbd4" />
+<img width="677" height="975" alt="image" src="https://github.com/user-attachments/assets/4a0215dd-6a6d-4b16-8cee-f9e4ca6435b1" />
+
 
 ### Predict
 
-**[Add image here — Predict page showing virality prediction and channel growth forecast]**
+<img width="1920" height="1026" alt="image" src="https://github.com/user-attachments/assets/f53380a8-80c9-46bf-9051-abe2e1b740ef" />
+
 
 ### Create
 
-**[Add image here — Create page showing generated titles and upload-timing analysis]**
+<img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/01f16bb2-3288-41d3-8689-81ece85c8487" />
+
 
 ### Monitor
 
-**[Add image here — Monitor page showing comment sentiment and performance anomalies]**
+ <img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/6f843f38-ec79-4ce2-b162-786e6056e00a" />
+
 
 ### Recommend
 
-**[Add image here — Recommend page showing similar videos and next-video ideas]**
+<img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/805d14cd-4123-4739-8a1e-1115acef615a" />
+
 
 ### Tracking
 
-**[Add image here — Tracking page showing tracked channels, historical data, leaderboards, and milestones]**
+<img width="1920" height="1047" alt="image" src="https://github.com/user-attachments/assets/3175fb0d-6962-4b08-b827-108b9497bd5b" />
+
 
 ## About the Project
 
