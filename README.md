@@ -12,8 +12,8 @@
 ## Live Demo
 
 - **Frontend:** yt-eddytiyaa.vercel.app
-- **Backend API:** `Add your Render URL here`
-- **API documentation:** `Add your Render URL here/docs`
+- **Backend API:** https://yt-io7s.onrender.com
+- **API documentation:** https://yt-io7s.onrender.com/docs
 
 > The free Render instance may sleep when inactive. The first request after a period of inactivity can take longer while the backend wakes up.
 
