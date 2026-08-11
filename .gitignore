@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+backend/.env
+backend/youtube_intel.db
+node_modules/
+frontend/dist/
+.vite/
+*.log

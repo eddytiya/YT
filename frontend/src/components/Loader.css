@@ -1,0 +1,6 @@
+.yt-loader{display:flex;align-items:center;gap:10px;padding:14px 4px;color:var(--yt-text-muted);font-family:var(--yt-font-mono);font-size:.82rem;letter-spacing:.02em}
+.yt-loader-bars{display:flex;align-items:center;gap:3px;flex-shrink:0}
+.yt-loader-bars .yt-skeleton{display:block;height:9px;border-radius:2px}
+.yt-loader-bars .yt-skeleton:nth-child(1){width:22px;animation-delay:0ms}
+.yt-loader-bars .yt-skeleton:nth-child(2){width:14px;animation-delay:160ms}
+.yt-loader-bars .yt-skeleton:nth-child(3){width:18px;animation-delay:320ms}

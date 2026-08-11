@@ -1,0 +1,14 @@
+fastapi==0.139.2
+uvicorn[standard]==0.51.0
+SQLAlchemy==2.0.51
+psycopg2-binary==2.9.11
+pydantic==2.13.4
+pydantic-settings
+requests==2.34.2
+pillow==12.3.0
+langdetect==1.0.9
+opencv-python-headless==4.10.0.84
+scikit-learn==1.9.0
+statsmodels==0.14.6
+networkx==3.6.1
+python-dotenv==1.2.2
